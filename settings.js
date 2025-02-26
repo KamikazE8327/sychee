@@ -7,12 +7,12 @@ const chalk = require('chalk');
  */
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 //settings owner di ./setown.js
-global.packname = 'SychBotz'
-global.owner = ["62882008702155"]
-global.botnum = ["6287862997267"]
-global.author = 'ydaa'
-global.owname = 'mzyda'
-global.botname = 'SYCHY BOTz'
+global.packname = 'IrohaBotz'
+global.owner = ["62877934640048"]
+global.botnum = ["62877934640045"]
+global.author = 'KazE'
+global.owname = 'KamikazE'
+global.botname = 'Iroha-Botz'
 global.themeemoji = '🪀'
 global.f = '> '
 global.n = '`'
